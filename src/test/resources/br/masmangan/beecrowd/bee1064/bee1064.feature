@@ -60,7 +60,7 @@ Feature: Bee1064 CLI
     Then output should be
 """
 4 valores positivos
-56.6
+56.7
 
 """
 
@@ -79,6 +79,6 @@ Feature: Bee1064 CLI
     Then output should be
 """
 1 valores positivos
-10
+10.0
 
 """
